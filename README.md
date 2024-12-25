@@ -1,5 +1,6 @@
 # AfroTune
 Project Title Afro Tune
 # Tables are easy 
-| Name | ID | 
-| Tsion Shimelis | UGR/0654/15 |
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
